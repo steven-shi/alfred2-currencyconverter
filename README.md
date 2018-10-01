@@ -5,11 +5,15 @@ A simple Alfred 2 Currency Converter workflow's.
 
 ![Alfred 2 Currency Converter](http://i50.tinypic.com/125p63a.jpg)
 
+* Fix for discontinued Google API
+* Becasue Google Finance API for currency converter no longer available
+* This repo applied fix from https://github.com/rafifyalda/alfred2-currencyconverter
+
 
 Installation
 ----------------
 
-- Download "[Currency Converter.alfredworkflow](https://github.com/BigLuck/alfred2-currencyconverter/raw/master/Currency%20Converter.alfredworkflow)" extension.
+- Download "[Currency Converter.alfredworkflow](https://github.com/steven-shi/alfred2-currencyconverter/raw/master/Currency%20Converter.alfredworkflow)" extension.
 - Double click the downloaded "Currency Converter.alfredworkflow" file to install.
 *Alfred 2 is required*
 
