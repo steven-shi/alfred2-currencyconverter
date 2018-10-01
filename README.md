@@ -5,7 +5,7 @@ A simple Alfred 2 Currency Converter workflow's.
 
 ![Alfred 2 Currency Converter](http://i50.tinypic.com/125p63a.jpg)
 
-* Fix for discontinued Google API
+* Fix for discontinued Google API (2018)
 * Becasue Google Finance API for currency converter no longer available
 * This repo applied fix from https://github.com/rafifyalda/alfred2-currencyconverter
 
